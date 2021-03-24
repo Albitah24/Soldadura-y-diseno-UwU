@@ -23,3 +23,5 @@
 
 -Que se pueden hacer muchos dibujos con solo una palabra.
 
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/dibujo.svg)
