@@ -1,4 +1,4 @@
-# Soldadura-y-diseno-UwU
+# Soldadura y diseño UwU
 
 
 ### Diseño de inkscape
