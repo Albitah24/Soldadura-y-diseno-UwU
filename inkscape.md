@@ -29,3 +29,7 @@
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/dibujo.svg)
 
 
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/dibujo.svg.png)
+
+
