@@ -26,20 +26,20 @@
 
 ### rasterización
 
-
+150
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/dibujo150.svg.png)
 
 
-
+100
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/dibujo.svg)
 
-
+50
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/dibujo50.svg.png)
 
-
+3
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/dibujo.svg.png)
 
