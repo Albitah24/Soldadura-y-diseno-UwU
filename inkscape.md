@@ -13,7 +13,7 @@
 
 -Para la guerra una bala y un cuchillo con sangre, la bala asemeja todas las armas que usaron para las guerras y el cuchillo con sangre es de todas las personas que mataron a lo largo de la historia.
 
--Para la paz el simbolo de la paz y una espada con una enrredadera rodeandola señalando el tiempo que paso sin que la tocasen.
+-Para la paz el simbolo de la paz y una espada con una enrredadera rodeandola señalando el tiempo que paso sin que la tocasen.https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/anime%20girl%20.jpg.svg
 
 ¿He utilizado algún símbolo? ¿Cuales?
 
@@ -90,4 +90,9 @@ leon rosa original
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/leon%20trazo%200.4.png)
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/leon%20trazo%200.4.svg)
+
+
+### mio personalizado
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/anime%20girl%20.jpg.svg)
 
