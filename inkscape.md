@@ -41,3 +41,8 @@
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/dibujo.svg.png)
 
 
+### Dibujo leon 
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/leonxitu.jpg.svg)
+
+
