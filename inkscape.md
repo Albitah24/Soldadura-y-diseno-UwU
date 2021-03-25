@@ -94,5 +94,37 @@ leon rosa original
 
 ### mio personalizado
 
+(vectorizado)
+
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/anime%20girl%20.jpg.svg)
 
+## Ejercicio de Modificar relleno
+
+(original)
+
+(resultado)
+
+(cambios cap)
+
+## EJercicio de Modificar Estilo de línea
+
+(original)
+
+(resultado)
+
+(cambios cap)
+
+## EJercicio de Modificar Color de línea
+
+(original)
+
+(resultado)
+
+(cambios cap)
+
+## Bézier
+Rectas
+
+Curvas
+
+Forma al gusto
