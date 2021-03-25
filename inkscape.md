@@ -67,3 +67,7 @@
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2009-39-39.png)
 
 
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/leon%20trazo%200.2.jpg.svg)
+
+
