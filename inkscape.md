@@ -27,7 +27,10 @@
 ### rasterización
 
 
+
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/dibujo150.svg.png)
+
+
 
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/dibujo.svg)
@@ -45,4 +48,6 @@
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/leonxitu.jpg.svg)
 
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/leonxitu2.jpg.svg)
 
