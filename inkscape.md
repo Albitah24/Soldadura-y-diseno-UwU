@@ -46,6 +46,9 @@
 
 ### Dibujo leon 
 
+leon rosa original
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/0468ba4c-65e8-436e-a267-f76147971ea0.jpg)
+
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/leonxitu.jpg.svg)
 
 
