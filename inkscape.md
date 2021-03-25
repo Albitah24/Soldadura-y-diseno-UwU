@@ -73,3 +73,7 @@
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/leon%20trazo%200.2.jpg.svg)
 
 
+
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/leon%20trazo%200.1.png)
+
