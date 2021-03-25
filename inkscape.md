@@ -57,3 +57,7 @@
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/leonxitu4.jpg.svg)
 
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/leonxitu5.jpg.svg)
+
+
