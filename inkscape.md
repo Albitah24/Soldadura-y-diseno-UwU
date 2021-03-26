@@ -6,6 +6,7 @@
 - [Personalizado](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/inkscape.md#mio-personalizado)
 - [Modificaciones](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/inkscape.md#ejercicio-de-modificar-relleno)
 - [Bezier](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/inkscape.md#b%C3%A9zier)
+- [Corte laser](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/inkscape.md#cortar)
 
 ### dibujito amor, odio, guerra y paz
 
