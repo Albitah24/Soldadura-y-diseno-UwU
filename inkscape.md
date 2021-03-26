@@ -104,6 +104,8 @@ leon rosa original
 
 ## Ejercicio de Modificar relleno
 
+Yumeko del anime kakegurui
+
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yumeko.jpg)
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yumeko%20relleno%20.jpg.svg)
@@ -111,6 +113,7 @@ leon rosa original
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yumeko%20relleno0.2.png)
 
 ## EJercicio de Modificar Estilo de línea
+02 del anime re zero
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/02WAIFU.jpg)
 
@@ -119,6 +122,7 @@ leon rosa original
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/02WAIFU%20lineas%20.png)
 
 ## EJercicio de Modificar Color de línea
+invasion de altura
 
 ![](https://www.ismorbo.com/wp-content/uploads/2020/11/highrise2.jpeg) 
 
