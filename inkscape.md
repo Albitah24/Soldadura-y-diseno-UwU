@@ -145,3 +145,9 @@ Forma al gusto
 
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/forma%20rara.svg)
+
+
+
+## Dibujito
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/dibujito%20.svg)
