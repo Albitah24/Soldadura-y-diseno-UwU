@@ -120,7 +120,7 @@ leon rosa original
 
 ## EJercicio de Modificar Color de línea
 
-![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yandere%20UwU.jpg)
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yandere%20UwU.jpg) (https://www.ismorbo.com/wp-content/uploads/2020/11/highrise2.jpeg)
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yandere%20UwU%20lineas.jpg.svg)
 
