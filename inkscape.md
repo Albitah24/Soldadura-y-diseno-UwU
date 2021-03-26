@@ -3,7 +3,7 @@
 ## Índice 
 
 - [Vectorizado](#dibujo-leon)
-- [Personalizado]()
+- [Personalizado](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/inkscape.md#mio-personalizado)
 
 ### dibujito amor, odio, guerra y paz
 
