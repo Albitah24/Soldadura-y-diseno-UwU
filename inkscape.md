@@ -112,7 +112,7 @@ leon rosa original
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/02WAIFU%20lineas%20modificas.jpg.svg)
 
-(cambios cap)
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/02WAIFU%20lineas%20.png)
 
 ## EJercicio de Modificar Color de línea
 
