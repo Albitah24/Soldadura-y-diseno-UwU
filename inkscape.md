@@ -118,7 +118,7 @@ leon rosa original
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yandere%20UwU.jpg)
 
-(resultado)
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yandere%20UwU%20lineas.jpg.svg)
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yandere%20UwU%20lineas.png)
 
