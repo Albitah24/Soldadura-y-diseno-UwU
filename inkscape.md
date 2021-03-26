@@ -108,7 +108,7 @@ leon rosa original
 
 ## EJercicio de Modificar Estilo de línea
 
-(original)
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/02WAIFU.jpg)
 
 (resultado)
 
