@@ -154,4 +154,6 @@ Forma al gusto
 
 ## Cortar
 
+grafiti de valoran, del personaje skye una sanadora 
+
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/corte%20laser%20svg.png.svg)
