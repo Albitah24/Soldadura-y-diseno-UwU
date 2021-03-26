@@ -133,6 +133,7 @@ invasion de altura
 ## Bézier
 Rectas
 
-Curvas
+curvas
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/curbas.svg)
 
 Forma al gusto
