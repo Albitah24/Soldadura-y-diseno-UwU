@@ -4,6 +4,7 @@
 
 - [Vectorizado](#dibujo-leon)
 - [Personalizado](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/inkscape.md#mio-personalizado)
+- [Modificaciones](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/inkscape.md#ejercicio-de-modificar-relleno)
 
 ### dibujito amor, odio, guerra y paz
 
