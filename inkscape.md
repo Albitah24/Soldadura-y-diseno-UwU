@@ -116,7 +116,7 @@ leon rosa original
 
 ## EJercicio de Modificar Color de línea
 
-(original)
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yandere%20UwU.jpg)
 
 (resultado)
 
