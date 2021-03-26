@@ -113,7 +113,7 @@ Yumeko del anime kakegurui
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yumeko%20relleno0.2.png)
 
 ## EJercicio de Modificar Estilo de línea
-02 del anime re zero
+02 del anime darling in the franxx
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/02WAIFU.jpg)
 
