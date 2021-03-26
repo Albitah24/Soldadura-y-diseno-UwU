@@ -126,7 +126,7 @@ invasion de altura
 
 ![](https://www.ismorbo.com/wp-content/uploads/2020/11/highrise2.jpeg) 
 
-![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yandere%20UwUhttps://www.ismorbo.com/wp-content/uploads/2020/11/highrise2.jpeg%20lineas.jpg.svg)
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yandere%20UwU%20lineas.jpg.svg)
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yandere%20UwU%20lineas.png)
 
