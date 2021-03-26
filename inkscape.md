@@ -104,7 +104,7 @@ leon rosa original
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yumeko%20relleno%20.jpg.svg)
 
-![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yumeko%20relleno%200.1.png)
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yumeko%20relleno0.2.png)
 
 ## EJercicio de Modificar Estilo de línea
 
