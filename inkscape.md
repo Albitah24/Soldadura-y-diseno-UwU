@@ -1,4 +1,8 @@
-# Dibujos de inkscape y apuntes
+# Dibujos de inkscape y apunte
+
+## Índice 
+
+- [Vectorizado](#dibujo-leon)
 
 ### dibujito amor, odio, guerra y paz
 
