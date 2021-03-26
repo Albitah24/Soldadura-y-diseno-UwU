@@ -120,7 +120,7 @@ leon rosa original
 
 (resultado)
 
-(cambios cap)
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yandere%20UwU%20lineas.png)
 
 ## Bézier
 Rectas
