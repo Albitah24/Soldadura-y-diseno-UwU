@@ -100,7 +100,7 @@ leon rosa original
 
 ## Ejercicio de Modificar relleno
 
-(original)
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yumeko.jpg)
 
 (resultado)
 
