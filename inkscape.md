@@ -151,3 +151,7 @@ Forma al gusto
 ## Dibujito
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/dibujito%20.svg)
+
+## Cortar
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/corte%20laser%20svg.png.svg)
