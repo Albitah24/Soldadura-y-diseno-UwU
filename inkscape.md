@@ -102,7 +102,7 @@ leon rosa original
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yumeko.jpg)
 
-(resultado)
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yumeko%20relleno%20.jpg.svg)
 
 (cambios cap)
 
