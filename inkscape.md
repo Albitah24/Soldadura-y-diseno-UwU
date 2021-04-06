@@ -161,3 +161,8 @@ Forma al gusto
 grafiti de valoran, del personaje skye una sanadora 
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/corte%20laser%20svg.png.svg)
+
+
+## apartado grafitis
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/1c84ece575f42c264812cce86da56c08.png)
