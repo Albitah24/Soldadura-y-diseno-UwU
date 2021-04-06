@@ -172,3 +172,6 @@ grafiti de valoran, del personaje skye una sanadora
 
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/sage%20grafiti0.1.png.svg)
+
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/sage%20grafiti0.2.png.svg)
