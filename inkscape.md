@@ -171,14 +171,18 @@ grafiti de sage curandera de valoran
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/1c84ece575f42c264812cce86da56c08.png)
 
+relleno y borde separados
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/sage%20grafiti.jpg.svg)
 
+relleno azul y borde negro
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/sage%20grafiti0.1.png.svg)
 
+relleno solo
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/sage%20grafiti0.2.png.svg)
 
+borde solo
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/sage%20grafiti0.3.png.svg)
