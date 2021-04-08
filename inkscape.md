@@ -196,5 +196,9 @@ circulo señal
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/redonda%20se%C3%B1al.png)
 
 
-
+proceso
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/ulyhfv.png)
+
+
+mitsubishi
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/marca%20mitsubishi.svg)
