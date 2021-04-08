@@ -191,3 +191,6 @@ borde solo
 ## logo 01 underground
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/se%C3%B1al%20bus%20tren.svg)
+
+circulo señal
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/redonda%20se%C3%B1al.png)
