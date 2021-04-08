@@ -1,7 +1,7 @@
 ## Estos funcionan bien con acentos 
 Enlaces del perositorio de David Prieto
 
-(https://github.com/d-prieto/Inkscape-fresado-y-soldadura)
+[Apartado de mecanografía](https://github.com/d-prieto/Inkscape-fresado-y-soldadura)
 
 [Mecanografía 1](https://agilefingers.com/es/test)
 
