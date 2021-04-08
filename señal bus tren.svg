@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="señal bus tren.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="361.80402"
+     inkscape:cy="607.69975"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1047"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.407138;stroke-dasharray:0.407138, 0.81427400000000005"
+       id="path833"
+       cx="95.82576"
+       cy="175.07437"
+       rx="68.109459"
+       ry="68.025246" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.543448;stroke-dasharray:0.543448, 1.08688999999999991"
+       id="path835"
+       cx="95.114708"
+       cy="175.18544"
+       rx="47.533619"
+       ry="47.434158" />
+    <rect
+       style="opacity:1;fill:#0013ff;fill-opacity:1;stroke:#000000;stroke-width:0.303786;stroke-dasharray:0.303786, 0.607572"
+       id="rect844"
+       width="168.29968"
+       height="28.159597"
+       x="11.702303"
+       y="161.19098" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.3669px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.259378;"
+       x="17.312454"
+       y="181.99297"
+       id="text848"><tspan
+         sodipodi:role="line"
+         id="tspan846"
+         x="17.312454"
+         y="181.99297"
+         style="font-size:19.3669px;fill:#ffffff;fill-opacity:1;stroke-width:0.259378;">UNDERGROUND</tspan></text>
+  </g>
+</svg>
