@@ -7,4 +7,4 @@
 
 [Lampara proyecto](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Lampara.md)
 
-[Mecanografia]
+[Mecanografia]()
