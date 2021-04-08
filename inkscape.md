@@ -209,3 +209,6 @@ mitsubishi
 
 captura de como es
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/aspdci.png)
+
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/marca%20stori%20ovely.svg)
