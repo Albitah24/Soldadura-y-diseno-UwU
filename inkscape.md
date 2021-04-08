@@ -212,3 +212,7 @@ captura de como es
 
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/marca%20stori%20ovely.svg)
+
+
+captura de como se hace
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-51-12.png)
