@@ -1,3 +1,8 @@
 ## Estos funcionan bien con acentos 
+enlaces del perositorio de David Prieto
 
-[1 de David Prieto](https://agilefingers.com/es/test)
+[Mecanografía 1](https://agilefingers.com/es/test)
+
+[Mecanografía 2](https://www.keyhero.com/prueba-mecanografia/test-gratuito/)
+
+[Mecanografía 3](https://www.artypist.com/es/test-mecanografia/test-velocidad)
