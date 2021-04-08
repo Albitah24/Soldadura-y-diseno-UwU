@@ -194,3 +194,7 @@ borde solo
 
 circulo señal
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/redonda%20se%C3%B1al.png)
+
+
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/ulyhfv.png)
