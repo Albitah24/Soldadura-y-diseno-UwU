@@ -221,3 +221,5 @@ captura de como se hace
 ## Cosa extraña
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/conejito.png)
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/coso%20raro%20hecho%20por%20mua.png)
