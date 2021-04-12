@@ -8,3 +8,5 @@
 [Lampara proyecto](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Lampara.md)
 
 [Mecanografía](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Mecanograf%C3%ADa.md)
+
+[Soldadura](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Soldadura)
