@@ -223,3 +223,6 @@ captura de como se hace
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/conejito.png)
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/coso%20raro%20hecho%20por%20mua.png)
+
+ya cortado
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-13%2013-57-58.png)
