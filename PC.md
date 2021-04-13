@@ -1,1 +1,2 @@
 
+## PC desmontado y montado
