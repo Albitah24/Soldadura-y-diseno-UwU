@@ -13,3 +13,9 @@ El plasma es un estado de la materia extremadamente energetico, es para cortar m
 ### Esto es de la maquina automatica 
 
 La cama es la superficie orizontal donde vamos a colocar la pieza que vamos a cortar.
+
+El puente es un elemento que incluye un rail donde se coloca  la cabeza de la maquina.
+
+La cabeza de la maquina se puede mover a traves de ese puente.
+
+[El cortador en hilo caliente](https://www.youtube.com/supported_browsers)
