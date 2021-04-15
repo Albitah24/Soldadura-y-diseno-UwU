@@ -37,7 +37,7 @@ Los laseres tienen HAZ.
 
 HAZ es la superficie iluminada por el laser.
 
-Ángulo incidente = el ángulo entre el rayo qye llega y la vertical
+Ángulo incidente = el ángulo entre el rayo que llega y la vertical
 
 Ángulo salida = el ángulo que forma el rayo reflejado por la normal de la superficie. 
 
