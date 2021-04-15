@@ -12,3 +12,5 @@
 [Soldadura](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Soldadura.md)
 
 [PC](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/PC.md)
+
+[Apuntes corte laser](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Corte%20laser.md)
