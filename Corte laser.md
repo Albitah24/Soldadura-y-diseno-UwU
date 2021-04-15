@@ -24,11 +24,26 @@ CAM = Computer Aided Machining. Mover maquinas con ayuda del ordenador.
 
 CAD = Computer Aided Design. Diseño asisitdo por ordenador.
 
-La laser que tenemos en fablab Castelldefels se configura como impresora.
+El láser que tenemos en fablab Castelldefels se configura como impresora.
 
 Cortadora de vinilos es una pequeña pieza que tiene un cuter que se puede ir moviendo, tambien se puede 
 usar para hacer circuitos flexibles.
 
-Laser = Amplificador de luz a traves de emision de radiacion estimulada.
+Láser = Amplificador de luz a traves de emision de radiacion estimulada.
 
 Nuestro laser esta en una burbuja de CO2.
+
+Los laseres tienen HAZ.
+
+HAZ es la superficie iluminada por el laser.
+
+Ángulo incidente = el ángulo entre el rayo qye llega y la vertical
+
+Ángulo salida = en ángulo que forma el rayo reflejado por la normal de la superficie. 
+
+Converger en termiós lumínicos significa que los rayos de un HAZ vayan hacia un mismo punto.
+
+Punto focal hace lo que eran 2cm sean 0,01mm.
+
+Enfocar el láser.
+
