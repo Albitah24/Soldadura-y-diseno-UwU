@@ -32,5 +32,3 @@ usar para hacer circuitos flexibles.
 Laser = Amplificador de luz a traves de emision de radiacion estimulada.
 
 Nuestro laser esta en una burbuja de CO2.
-
-
