@@ -39,7 +39,7 @@ HAZ es la superficie iluminada por el laser.
 
 Ángulo incidente = el ángulo entre el rayo qye llega y la vertical
 
-Ángulo salida = en ángulo que forma el rayo reflejado por la normal de la superficie. 
+Ángulo salida = el ángulo que forma el rayo reflejado por la normal de la superficie. 
 
 Converger en termiós lumínicos significa que los rayos de un HAZ vayan hacia un mismo punto.
 
