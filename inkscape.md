@@ -239,3 +239,5 @@ ya cortado
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-13%2013-57-58.png)
 
 1 Aconteció en el año treinta, en el mes cuarto, a los cinco días del mes, que estando yo en medio de los cautivos junto al río Quebar, los cielos se abrieron, y vi visiones de Dios.
+
+Ave maria purisima
