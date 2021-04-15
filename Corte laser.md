@@ -25,3 +25,6 @@ CAM = Computer Aided Machining. Mover maquinas con ayuda del ordenador.
 CAD = Computer Aided Design. Diseño asisitdo por ordenador.
 
 La laser que tenemos en fablab Castelldefels se configura como impresora.
+
+Cortadora de vinilos es una pequeña pieza que tiene un cuter que se puede ir moviendo, tambien se puede 
+usar para hacer circuitos flexibles.
