@@ -112,7 +112,10 @@ Vectoriza las fotos cada una con algo diferente
 
 Yumeko del anime kakegurui
 
+Imaguen original
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yumeko.jpg)
+
+Relleno rosa con el lado derecho difuminado
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yumeko%20relleno%20.jpg.svg)
 
@@ -121,7 +124,10 @@ Yumeko del anime kakegurui
 ## EJercicio de Modificar Estilo de línea
 02 del anime darling in the franxx
 
+Imaguen original
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/02WAIFU.jpg)
+
+Bordes con puntos 
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/02WAIFU%20lineas%20modificas.jpg.svg)
 
@@ -130,7 +136,10 @@ Yumeko del anime kakegurui
 ## EJercicio de Modificar Color de línea
 invasion de altura
 
+Imaguen original
 ![](https://www.ismorbo.com/wp-content/uploads/2020/11/highrise2.jpeg) 
+
+Borde de color 
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/yandere%20UwU%20lineas.jpg.svg)
 
@@ -228,3 +237,5 @@ captura de como se hace
 
 ya cortado
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-13%2013-57-58.png)
+
+1 Aconteció en el año treinta, en el mes cuarto, a los cinco días del mes, que estando yo en medio de los cautivos junto al río Quebar, los cielos se abrieron, y vi visiones de Dios.
