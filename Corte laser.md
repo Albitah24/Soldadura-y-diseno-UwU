@@ -28,3 +28,9 @@ La laser que tenemos en fablab Castelldefels se configura como impresora.
 
 Cortadora de vinilos es una pequeña pieza que tiene un cuter que se puede ir moviendo, tambien se puede 
 usar para hacer circuitos flexibles.
+
+Laser = Amplificador de luz a traves de emision de radiacion estimulada.
+
+Nuestro laser esta en una burbuja de CO2.
+
+
