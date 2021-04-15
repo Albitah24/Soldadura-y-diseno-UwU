@@ -19,3 +19,9 @@ El puente es un elemento que incluye un rail donde se coloca  la cabeza de la ma
 La cabeza de la maquina se puede mover a traves de ese puente.
 
 [El cortador en hilo caliente](https://www.youtube.com/supported_browsers)
+
+CAM = Computer Aided Machining. Mover maquinas con ayuda del ordenador.
+
+CAD = Computer Aided Design. Diseño asisitdo por ordenador.
+
+La laser que tenemos en fablab Castelldefels se configura como impresora.
