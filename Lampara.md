@@ -18,3 +18,6 @@
 ¿Como quiero que actue?
 - Quiero que se encienda cuando le des a un botoncito que tendra en la bola o cuando toques la bola 
   y que le puedas subir y bajar la intensidad de la iluminación
+  
+  
+Los materiales serian la base de madera y la bola seria de plastico o papel.
