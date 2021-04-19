@@ -60,3 +60,8 @@ Las tipografías son una definición grafica de caracteres
 .OTF = Open Tai Fon
 
 
+
+## CORTE LASER 
+
+¿Que imaguen escogi y porque?
+
