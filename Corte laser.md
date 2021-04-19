@@ -49,6 +49,3 @@ Enfocar el láser.
 
 El rayo sale del tubo de CO2 con un HAZ de 2cm, se refleja en un espejo interno del láser, se refleja en un segundo espejo que esta en el puente y despues se refleja en un tercer espejo que esta en la cabeza y para llegar a una lente focal que convierte el HAzZ en una superficie de 0,01mm.
 
-
-
-![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/%C3%ADndice.jpeg)
