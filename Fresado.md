@@ -45,6 +45,8 @@ Fresa: fresar. mill.
 
 Esto lo hice antes de los apuntes
 
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-13%2013-57-58.png)
+
 ## Segundo fresado de conejito
 
 Cambios
