@@ -96,5 +96,17 @@ Como funciona y los nombres de las maquinas/ materiales y los materiales que se 
  -
  
  ##### ¿Como pasamos del diseño al corte?
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ ### Apuntes 2
+ 
+ El eje X es el borde mas largo de la cama, el eje Y mas corto y el eje Z es el vertical. La Z hacia arriba es positiva.
+ 
+ Job: (tranajo o encargo)
+ Conjunto de instrucciones para que ejecute una máquina de fabricación.
+ 
+ [Mod](http://mods.cba.mit.edu/)
