@@ -54,3 +54,5 @@ Cambios
 Generación del nuevo archivo .rml
 
 
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-22%2013-53-53.png)
+
