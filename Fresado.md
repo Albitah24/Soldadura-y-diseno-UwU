@@ -10,6 +10,7 @@ Fresa: fresar. mill.
  STL: archivo de punto 3D
  
   PPP (pixeles)   (cuadrada)
+  
  PPP: puntos por pulgadas
  
  DPI: 
