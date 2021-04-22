@@ -9,7 +9,7 @@ Fresa: fresar. mill.
  PNG: archivo rást
  STL: archivo de punto 3D
  
-     (pixeles)   (cuadrada)
+  PPP (pixeles)   (cuadrada)
  PPP: puntos por pulgadas
  
  DPI: 
