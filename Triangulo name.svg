@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/auxiliarinformatica/snap/inkscape/8746/bitmap.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.0.2 (394de47547, 2021-03-26)"
+   sodipodi:docname="Triangulo name.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.48872055"
+     inkscape:cx="400.65172"
+     inkscape:cy="663.8046"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1345"
+     inkscape:window-height="1023"
+     inkscape:window-x="480"
+     inkscape:window-y="104"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:#fff6ff;stroke-width:0.370417;stroke-dasharray:0.370417, 0.740833;stroke-opacity:0.996859"
+       id="path845"
+       sodipodi:sides="3"
+       sodipodi:cx="76.904678"
+       sodipodi:cy="148.86885"
+       sodipodi:r1="28.980164"
+       sodipodi:r2="14.490082"
+       sodipodi:arg1="0.53122886"
+       sodipodi:arg2="1.5784264"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 101.89095,163.55001 51.697292,163.16702 77.125797,119.88953 Z"
+       inkscape:transform-center-x="0.11056048"
+       inkscape:transform-center-y="-7.1490843" />
+    <text
+       xml:space="preserve"
+       style="font-size:23.066px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke-width:0.576651"
+       x="52.91515"
+       y="153.95576"
+       id="text849"><tspan
+         sodipodi:role="line"
+         id="tspan847"
+         x="52.91515"
+         y="153.95576"
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.576651">Alba</tspan></text>
+  </g>
+</svg>
