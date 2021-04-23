@@ -241,6 +241,14 @@ captura de como se hace
 ya cortado
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-13%2013-57-58.png)
 
+Nike mal
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Nike%20%3B-%3B.png)
+
+Citroen 
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Logo%20citroen.svg)
+
 1 La revelación de Jesucristo, que Dios le dio, para manifestar a sus siervos las cosas que deben suceder pronto; y la declaró enviándola por medio de su ángel a su siervo Juan,
 2 que ha dado testimonio de la palabra de Dios, y del testimonio de Jesucristo, y de todas las cosas que ha visto.
 
