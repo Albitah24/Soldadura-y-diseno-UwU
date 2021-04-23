@@ -1,12 +1,12 @@
 ## El examen axuxuma
 
-Problema1
+###Problema1
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-16-49.png)
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Examen%20.png)
 
-problema2
+###Problema2
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-42-53.png)
 
@@ -24,8 +24,22 @@ problema2
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Triangulo%20name%20y%20rectangulo%20horizontal.svg)
 
-Problema3
+###Problema3
 
 ![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Nombre%20b%C3%A9izar.svg)
 
 NO PUEDO SUBIRLO EN PNG PORQUE NO ME DA LA OPCION Y TAMPOCO PUEDO HACER CAPTURA
+
+###Problema4
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-04-19.png)
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-05-31.png)
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-06-19.png)
+
+![](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-07-01.png)
+
+
+
+
