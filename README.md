@@ -16,3 +16,5 @@
 [Apuntes corte laser](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Corte%20laser.md)
 
 [La fresacion](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Fresado.md)
+
+[Examens](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Examen.md)
