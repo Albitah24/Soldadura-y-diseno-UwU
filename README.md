@@ -18,3 +18,6 @@
 [La fresacion](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Fresado.md)
 
 [Examens](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Examen.md)
+
+
+[Proyecto integral](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Proyecto%20integral%20pfi%202021.mb)
