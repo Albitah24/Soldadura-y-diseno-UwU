@@ -19,5 +19,13 @@
 
 [Examens](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Examen.md)
 
+## Fina clase y solo proyecto
 
 [Proyecto integral](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Proyecto%20integral%20pfi%202021.mb)
+
+
+[Documentación procesito](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Documentaci%C3%B3n%20del%20proceso.md)
+
+[Ficha técnica](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Ficha%20t%C3%A9cnica.md)
+
+[Documentos finalez](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Documentos%20finales.md)
