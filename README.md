@@ -21,7 +21,7 @@
 
 ## Fina clase y solo proyecto
 
-[Proyecto integral](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Proyecto%20integral%20pfi%202021.mb)
+[Proyecto La iluminaxiooooooooon](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Proyecto%20integral%20pfi%202021.mb)
 
 
 [Documentación procesito](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Documentaci%C3%B3n%20del%20proceso.md)
