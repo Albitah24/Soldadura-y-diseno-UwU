@@ -5,7 +5,6 @@
 
 [Extra arduino](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Arduino.md#documentar-arduino)
 
-[Lampara proyecto](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Lampara.md)
 
 [Mecanografía](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Mecanograf%C3%ADa.md)
 
@@ -20,6 +19,9 @@
 [Examens](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Examen.md)
 
 ## Fina clase y solo proyecto
+
+[Lampara proyecto](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Lampara.md)
+
 
 [Proyecto La iluminaxiooooooooon](https://github.com/Albitah24/Soldadura-y-diseno-UwU/blob/main/Proyecto%20integral%20pfi%202021.mb)
 
